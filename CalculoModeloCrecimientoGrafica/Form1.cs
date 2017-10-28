@@ -38,7 +38,7 @@ namespace CalculoModeloCrecimientoGrafica
             dt.Columns.Add("NumeroColiforme", typeof(Double));
 
             //Da formato a la tabla
-            dataGridView1.DefaultCellStyle.Font = new Font("Arial", 10.125F, GraphicsUnit.Pixel);
+            dataGridView1.DefaultCellStyle.Font = new Font("Arial", 12.8F, GraphicsUnit.Pixel);
 
             
 
